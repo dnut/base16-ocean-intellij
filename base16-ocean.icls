@@ -1,12 +1,13 @@
 <scheme name="drew-base16-ocean-underline-fixed-for-2019.2.4" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-05-12T14:56:14</property>
+    <property name="created">2020-05-12T20:28:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-05-12T14:56:47</property>
+    <property name="modified">2020-05-12T20:28:56</property>
     <property name="originalScheme">drew-base16-ocean-underline-fixed-for-2019.2.4</property>
   </metaInfo>
   <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
     <option name="GUTTER_BACKGROUND" value="2b303b" />
     <option name="INDENT_GUIDE" value="3f4a5d" />
   </colors>
